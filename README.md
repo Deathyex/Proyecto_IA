@@ -2,6 +2,8 @@
 
 ![banner](https://user-images.githubusercontent.com/79383106/190333369-e85352af-e4fb-4cdf-9833-beb89cb0faf1.png)
 
+Link del video: https://youtu.be/Cvx3iPZooGk
+
 Proyecto para Inteligencia artificial 2022-1
 
 * Santiago Ariza Briceño - 2183223 - GRUPO J1
